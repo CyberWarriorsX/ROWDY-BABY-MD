@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/yasiyaofc/ROWDY-BABY-MD /root/yasiyaofc
-WORKDIR /root/MR-KALINDU/
+RUN git clone https://github.com/yasiyaofc/ROWDY-BABY-MD/root/yasiyaofc
+WORKDIR /root/yasiyaofc/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
