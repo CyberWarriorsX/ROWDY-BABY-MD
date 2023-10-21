@@ -19,7 +19,7 @@
    
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-KALINDU/ROWDY-BABY-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasiyaofc/ROWDY-BABY-MD)
 ---------
 
 
